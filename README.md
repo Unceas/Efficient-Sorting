@@ -15,4 +15,7 @@ This repository contains the implementation and analysis of Hybrid Sorting Algor
   - Reverse sorted arrays
   - Datasets with duplicates
 
-## 📂 Directory Structure
+## 🧑‍💻 Authors
+- Ayush Kushwaha
+- Gaurav Kumar Pandey
+- Azaan Moiz
