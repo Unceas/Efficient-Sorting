@@ -8,7 +8,11 @@ This repository contains the implementation and analysis of Hybrid Sorting Algor
 - 🔁 Three Hybrid Models:
   - QuickSort + Insertion Sort
   - QuickSort + Merge Sort
-  - QuickSort + HeapSort (Introsort-inspired)
+  - QuickSort + HeapSort
+
+  - Introsort: 3 way merge.
+    
+
 - 📊 Performance Analysis on:
   - Random arrays
   - Nearly sorted arrays
