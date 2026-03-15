@@ -1,5 +1,5 @@
 # 🚀 Hybrid Sorting Benchmark & Visualization Toolkit
-A benchmarking and visualization toolkit for hybrid sorting algorithms implemented in C++ with Python-based analysis and visualization tools.
+
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)
