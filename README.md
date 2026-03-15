@@ -139,7 +139,7 @@ benchmark_graph.png
 
 Example output:
 
-![Benchmark Graph](benchmark_graph.png)
+![Benchmark Graph](results/benchmark_graph.png)
 
 ---
 
