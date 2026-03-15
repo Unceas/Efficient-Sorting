@@ -38,7 +38,7 @@ IntroSort is the algorithm used internally by **`std::sort()` in the C++ STL**.
 # 📂 Project Structure
 
 ```
-Efficient-Sorting
+Hybrid-Sorting-Benchmark-and-Vizualization-Toolkit
 │
 ├── algorithms
 │   ├── intro_sort.cpp
