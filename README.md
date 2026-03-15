@@ -137,12 +137,6 @@ This produces a visual comparison like:
 benchmark_graph.png
 ```
 
-Example output:
-
-![Benchmark Graph](results/benchmark_graph.png)
-
----
-
 ## 📊 Benchmark Results
 
 Average runtime of each hybrid algorithm across different dataset sizes.
