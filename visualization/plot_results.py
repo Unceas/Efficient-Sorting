@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("benchmark_results.csv")
+pd.read_csv("../results/benchmark_results.csv")
 
 plt.figure(figsize=(8,5))
 

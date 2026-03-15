@@ -1,5 +1,5 @@
 #include <vector>
-#include "sorting_utils.h"
+#include "../utils/sorting_utils.h"
 
 namespace {
     const int INSERTION_THRESHOLD = 10;

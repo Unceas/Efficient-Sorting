@@ -1,6 +1,6 @@
 #include <vector>
 #include <algorithm>
-#include "sorting_utils.h"
+#include "../utils/sorting_utils.h"
 
 namespace {
     const int HEAP_THRESHOLD = 20;

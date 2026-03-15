@@ -1,2 +1,21 @@
-benchmark.exe
+# Compiled binaries
 *.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# Build folders
+build/
+bin/
+
+# VSCode settings
+.vscode/
+
+# Generated results
+results/*.csv
+results/*.png
+
+# Python cache
+__pycache__/
+*.pyc
