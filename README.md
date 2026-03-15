@@ -162,7 +162,7 @@ Average runtime of each hybrid algorithm across different dataset sizes.
 
 The following graph compares the runtime of all hybrid algorithms across increasing dataset sizes.
 
-![Benchmark Graph](benchmark_graph.png)
+![Benchmark Graph](results/benchmark_graph.png)
 
 # 🎨 Sorting Algorithm Visualizer
 
