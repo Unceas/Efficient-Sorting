@@ -1,4 +1,5 @@
 # 🚀 Hybrid Sorting Benchmark & Visualization Toolkit
+A benchmarking and visualization toolkit for hybrid sorting algorithms implemented in C++ with Python-based analysis and visualization tools.
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)
@@ -85,8 +86,8 @@ pip install matplotlib pandas
 Clone the repository:
 
 ```bash
-git clone https://github.com/Unceas/Efficient-Sorting.git
-cd Efficient-Sorting
+git clone https://github.com/Unceas/Hybrid-Sorting-Benchmark-and-Visualization-Toolkit.git
+cd Hybrid-Sorting-Benchmark-and-Visualization-Toolkit
 ```
 
 ---
